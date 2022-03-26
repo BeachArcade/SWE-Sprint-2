@@ -1,4 +1,4 @@
-# SWEP3-Sprint1
+# SWEP3-Sprint2
 Repository for the first sprint of Software Engineering Project Module
 
 ## How To Run
